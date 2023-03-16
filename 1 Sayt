@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<h1>Marvel<h1/>
+<p>«Кіновсесвіт Marvel» скорочена назва «КВМ» (англ. Marvel Cinematic Universe, або MCU) — вигаданий всесвіт, серія супергеройських фільмів, заснована на коміксах компанії Marvel і розроблена компанією Marvel Studios.<p/>
+<p>Всесвіт було створено шляхом з'єднання в загальну сюжетну лінію декількох фільмів з акторами та персонажами.<p/>
+<a href="https://www.google.com/url?sa=t&source=web&rct=j&url=https://uk.m.wikipedia.org/wiki/%25D0%259A%25D1%2596%25D0%25BD%25D0%25BE%25D0%25B2%25D1%2581%25D0%25B5%25D1%2581%25D0%25B2%25D1%2596%25D1%2582_Marvel&ved=2ahUKEwiAzLif99_9AhWyhP0HHdIlAHUQFnoECA8QAQ&usg=AOvVaw2W92rJBaKnJEo1uBYQmfCe">Джерело</a>
+<ul>Персонажі  
+<li>Залізна людина</li>
+<li>Капітан Америка</li>
+<li>Халк</li>
+<li>Людина павук</li>
+<li>Соколине око</li>
+</ul>
+<img
+src=https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%90%D1%80%D1%82-%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%A1%D0%B0%D0%B3%D0%B8_%D0%91%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%9A%D0%92%D0%9C.jpeg"alt=Герої>
+</body>
+</html>
+
